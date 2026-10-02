@@ -441,34 +441,7 @@ Potential enhancements include:
 
 These are planned enhancements, not features claimed to be complete in the current notebook.
 
-## 🎥 Demo Video (3–5 Minutes)
 
-A short demonstration can follow this sequence:
-
-**0:00–0:30 — Introduction**
-- Introduce Leo and explain the multi-agent tutoring objective.
-- Show the project architecture.
-
-**0:30–1:15 — Coordinator and Explainer**
-- Enter a student name and topic.
-- Start a learning session.
-- Show the learning plan and generated lesson.
-
-**1:15–2:00 — Quiz Master**
-- Display the five MCQs.
-- Explain the structured question format.
-
-**2:00–2:45 — Evaluator**
-- Submit answers.
-- Show the verified score, answer review, and personalized feedback.
-
-**2:45–3:30 — Re-teaching**
-- Demonstrate the targeted re-teaching feature for weak areas.
-
-**3:30–4:00 — Technical overview**
-- Briefly explain CrewAI, role-specific prompts, sequential orchestration, session memory, and Gradio.
-
-Use a real run of the application for the recording and do not show API keys or other secrets.
 
 ## 📚 Learning Objectives Demonstrated
 
